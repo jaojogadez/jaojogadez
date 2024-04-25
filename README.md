@@ -12,7 +12,7 @@ Meu Principal Repositório:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jao_oliviera/)<br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaojogadez&size_weight=0.5&count_weight=0.5)
+
 <img align="rigth" alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
 
 
