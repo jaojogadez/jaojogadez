@@ -12,8 +12,8 @@ Meu Principal Repositório:<br>
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jao_oliviera/)<br>
 <br>
 
-
-<img align="rigth" alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
-
-
+<div style="display: flex; justify-content:space_around">
+  <img align="rigth" alt="zoro" width="300" src="https://i.pinimg.com/originals/39/e3/52/39e352ea5caf1247fb29969a7cc8d4d2.gif">
+  <img alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
+</div>
 
