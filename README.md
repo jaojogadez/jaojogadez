@@ -1,5 +1,5 @@
 # Olá sou João Pedro de Oliveira👋
-Sou Web Desenvolvedor Júnior, focado em aprender cada vez mais novas tecnologias <br>
+Sou Web Desenvolvedor Júnior, tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais novas tecnologias <br>
 ## Atualmente estou aprendendo: <br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
