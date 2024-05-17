@@ -4,7 +4,7 @@ Tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais no
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) <br>
-Meu Principal Repositório:<br>
+## Meu Principal Repositório:<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jaojogadez&repo=projetos)](https://github.com/jaojogadez/projetos)<br>
 <!--### Minhas Redes Sociais: <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-b86b0b293/)
