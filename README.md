@@ -16,10 +16,10 @@ Tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais no
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jao_oliviera/)<br>
 <br>-->
 
-<div style="display: flex; justify-content:space_around">
+<span style="display: flex; justify-content:space_around">
   <img align="rigth" alt="zoro" width="300" src="	https://github-readme-stats.vercel.app/api/top-langs/?username={jaojogadez}&theme=blue-green">
-  <!--<img alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">-->
-</div>
+  <img alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
+</span>
 
 
 
