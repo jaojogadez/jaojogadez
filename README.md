@@ -25,13 +25,9 @@ Tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais no
 <a href="https://github.com/jaojogadez">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojogadez&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jaojogadez&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img loading="lazy" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
 </div>
 
-<span style="display: flex; justify-content:space_around">
-  https://github-readme-stats.vercel.app/api/top-langs/?username={jaojogadez}&theme=blue-green
-  <img alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
-</span>
-
-
+<!--
 ![Snake animation](https://github.com/jaojogadez/jaojogadez/blob/output/github-contribution-grid-snake.svg)
-
+-->
