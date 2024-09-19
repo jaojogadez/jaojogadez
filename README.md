@@ -17,7 +17,7 @@ Tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais no
 <br>-->
 
 <span style="display: flex; justify-content:space_around">
-  <img align="rigth" alt="zoro" width="300" src="	https://github-readme-stats.vercel.app/api/top-langs/?username={jaojogadez}&theme=blue-green">
+  https://github-readme-stats.vercel.app/api/top-langs/?username={jaojogadez}&theme=blue-green
   <img alt="zoro" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
 </span>
 
