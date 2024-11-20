@@ -28,6 +28,7 @@ Tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais no
 <img loading="lazy" width="300" src="https://i.pinimg.com/originals/03/bb/b1/03bbb179ac595ff87e17820bb2ac16de.gif">
 </div>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jaojogadez&label=Profile%20views&color=0e75b6&style=flat" alt="jaojogadez" /> </p>
 <!--
 ![Snake animation](https://github.com/jaojogadez/jaojogadez/blob/output/github-contribution-grid-snake.svg) testes teste
 -->
