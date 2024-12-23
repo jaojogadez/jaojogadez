@@ -1,5 +1,5 @@
 # Olá sou João Pedro de Oliveira👋
-Tenho 16 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais novas tecnologias e evoluir no mundo do Desenvolvimento Web! <br>
+Tenho 17 anos, aluno da Fundação Bradesco, focado em aprender cada vez mais novas tecnologias e evoluir no mundo do Desenvolvimento Web! <br>
 ## Atualmente estou aprendendo: <br>
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
 
