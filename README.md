@@ -84,7 +84,7 @@
   <a href="https://www.instagram.com/jao oliviera">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-oliveira-b86b0b293/">
+  <a href="https://www.linkedin.com/in/jaocodadez/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="LinkedIn" />
   </a>
   <a href="https://wa.me/5512920006654"">
