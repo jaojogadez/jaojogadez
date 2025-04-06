@@ -17,7 +17,7 @@
     <li>🚀 17 anos e aluno da Fundação Bradesco</li>
     <li> 💻  Web Desenvolvedor</li>
     <li>🌍 Morando em Marília, SP</li>
-    <li>🧠 Estudando JavaScript</li>
+    <li>🧠 Estudando TypeScript</li>
   </ul>
 </div>
 
