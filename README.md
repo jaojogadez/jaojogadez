@@ -12,7 +12,7 @@
 
 <!-- Seção sobre mim -->
 <div>
-  <h2>💫 Sobre Mim</h2>
+  <h2>Sobre Mim</h2>
   <ul>
     <li>🚀 17 anos e aluno da Fundação Bradesco</li>
     <li> 💻  Web Desenvolvedor</li>
