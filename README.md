@@ -14,7 +14,7 @@
 <!-- Seção de Apresentação -->
 ## 💻 Desenvolvedor Web - Front End
 <p>
-  Focado em aprender cada vez mais novas tecnologias e evoluir no mundo do Desenvolvimento Web! Sou dev. Front-End em formação, estudante dedicado e aluno da Fundação Bradesco,     cursando o 3° ano do Ensino Médio, sou um aluno com paixão por tecnologia e criação de experiências digitais modernas e funcionais. Tenho habilidades em HTML, CSS, JavaScript, Bootstrap, Git e GitHub, e aplico esses conhecimentos na construção de layouts responsivos e projetos dinâmicos.
+  Focado em aprender cada vez mais novas tecnologias e evoluir no mundo do Desenvolvimento Web! Sou dev. Front-End em formação, estudante dedicado e aluno da Fundação Bradesco,     cursando o 3° ano do Ensino Médio, sou um aluno com paixão por tecnologia e criação de soluções modernas e funcionais. Tenho habilidades em HTML, CSS, JavaScript, Bootstrap, Git e GitHub, e aplico esses conhecimentos na construção de layouts responsivos e projetos dinâmicos.
 </p>
 
 <!-- Seção sobre mim 
@@ -61,7 +61,7 @@
 <h2 align="center">🌐 Conecte-se comigo</h2>
 
 <p align="center">
-  <a href="https://www.instagram.com/jao oliviera">
+  <a href="https://www.instagram.com/jao_oliviera">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=007ACC&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/jaocodadez/">
