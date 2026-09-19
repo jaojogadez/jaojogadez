@@ -94,31 +94,6 @@ Sou **Desenvolvedor Web especializado em Frontend Moderno** com foco em experiê
 
 ---
 
-### 2. **Portfolio Interativo**
-**Vitrine de projetos com alternância web/app**
-
-#### Funcionalidades:
-- ✅ Toggle entre visualização web e mobile
-- ✅ Conectores SVG animados entre botões
-- ✅ Carousel de projetos
-- ✅ Screens mockup responsivas
-- ✅ Animações fluidas e profissionais
-
-#### Tecnologias:
-- JavaScript (gerenciamento de estado)
-- SVG (conectores dinâmicos)
-- CSS Grid e Flexbox
-- Animações CSS3
-
----
-
-#### Tecnologias:
-- HTML5 estratégico (BEM)
-- CSS3 avançado (variáveis, animações)
-- JavaScript puro (sem dependências)
-
----
-
 ## 🎨 Habilidades de Design
 
 - **UI/UX** — Design focado em conversão e UX
@@ -157,28 +132,17 @@ Sou **Desenvolvedor Web especializado em Frontend Moderno** com foco em experiê
 
 ---
 
-## 🎁 Como trabalho
-
-1. **Consultoria** — Entendo seu negócio e público
-2. **Design** — Prototipo no Figma
-3. **Desenvolvimento** — Código limpo e modular
-4. **Testes** — QA em múltiplos browsers
-5. **Deploy** — Hospedagem em Vercel/Netlify
-6. **Suporte** — Atualizações e manutenção
-
----
-
 ## 📞 Vamos conectar?
 
 - 📧 **Email:** contato.dev.joaopedro@gmail.com
-- 💬 **WhatsApp:** +55 14 9300-9075
+- 💬 **WhatsApp:** +55 14 92000-6654
 - 🔗 **LinkedIn:** [/in/jaocodadez](https://www.linkedin.com/in/jaocodadez/)
 - 📸 **Instagram:** [@devjoaopedro](https://www.instagram.com/devjoaopedro/)
 - 👥 **Facebook:** [Devjoaopedro](https://www.facebook.com/people/Devjoaopedro/61567355956956/)
 
 ---
 
-## 🎯 Meta Profissional
+## 🎯 Metas Profissionais
 
 - 🎓 Conclusão da formação BCC
 - 🚀 Desenvolvimento de SaaS próprio
