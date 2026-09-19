@@ -5,70 +5,192 @@
 <h1 align="center">👋 João Pedro de Oliveira</h1>
 
 <p align="center">
-Estudante de Ciência da Computação (BCC) • Desenvolvedor Web • Foco em IA e Software
+  Desenvolvedor Web Full-Stack • Estudante BCC • Foco atual em Frontend Moderno
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/devjoaopedro/">
+    <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jaocodadez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/people/Devjoaopedro/61567355956956/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:contato.dev.joaopedro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/5514933009075">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de **Ciência da Computação** e Desenvolvedor Web em formação, com foco em **lógica de programação, algoritmos, desenvolvimento web e aplicações com Inteligência Artificial**.
+Sou **Desenvolvedor Web especializado em Frontend Moderno** com foco em experiências digitais premium e funcionais. Estudante de **Ciência da Computação (BCC)** com formação técnica pelo SENAI, combinando conhecimento acadêmico com prática profissional.
 
-Possuo experiência prática com **HTML, CSS, JavaScript, Node.js, PHP, MySQL, Git e GitHub**, desenvolvendo projetos próprios para aplicar conceitos de **engenharia de software, APIs, automações e UX/UI**.
+**Minha paixão:** Criar interfaces intuitivas, responsivas e de alto desempenho que resolvem problemas reais.
 
-Atualmente trabalho na **DORI Alimentos** como **Operador de Processos de Produção** e realizo formação técnica pelo **SENAI**, o que fortalece minha visão de **processos, organização, padronização e trabalho em equipe** — competências que aplico também na tecnologia.
+### 💼 Experiência Profissional
+- **DORI Alimentos** — Operador de Processos de Produção (atual)
+- **Desenvolvedor Autônomo** — Criação de sites e aplicações web 
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45px"/>
-</p>
-
+### 🎓 Formação Acadêmica
+- 🎓 Bacharelado em Ciência da Computação (BCC) — UNIMAR (2º Termo em andamento)
+- 🏭 Formação Técnica — SENAI (Operador de Processos na Indústria Alimentícia - relacionado ao emprego atual)
+- 📘 HTML5 e CSS3 — Curso em Vídeo
+- 📘 Administração — MicroPro
 
 ---
 
-## 📚 Formação
+## 🛠️ Stack Técnico
 
-- 🎓 Bacharelado em Ciência da Computação — UNIMAR (em andamento)
-- 🏭 SENAI — Operador de Processos de Produção na Indústria Alimentícia
-- 📘 Curso de Administração — MicroPro
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,php,mysql,git,github,python,figma" />
+</p>
+
+### Frontend
+- **HTML5** — Semântica e acessibilidade (BEM)
+- **CSS3** — Layouts responsivos, animações, glassmorphism
+- **JavaScript (ES6+)** — DOM manipulation, APIs, módulos
+
+### Noções de Backend & Database
+- **Node.js** — Servidores, APIs REST
+- **PHP** — Backend moderno, MVC
+- **MySQL** — Design relacional, otimização de queries
+
+### Ferramentas
+- **Git/GitHub** — Versionamento e colaboração
+- **Figma** — Design de interfaces
+- **VS Code** — Editor principal
+  
+---
+
+## 🎯 Principais Projetos
+
+### 1. **ONG GARRA — Resgate de Animais**
+**Site institucional real com foco em conversão e doações**
+
+🔗 **[garramarilia.vercel.app](https://garramarilia.vercel.app)**
+
+#### Funcionalidades:
+- ✅ Design responsivo e moderno (mobile-first)
+- ✅ Seção de voluntariado com formulário integrado
+- ✅ Sistema de transparência financeira com gráficos CSS
+- ✅ Catálogo de animais para adoção
+- ✅ Integração PIX para doações
+- ✅ SEO otimizado para Google
+- ✅ Performance Lighthouse 95+
+
+#### Tecnologias:
+- HTML5 semântico
+- CSS3 (gradientes, animações, glassmorphism)
+- JavaScript vanilla (modal, animações)
+- Integração WhatsApp
+- Vercel Deploy
 
 ---
 
-## 📊 Estatísticas GitHub
+### 2. **Portfolio Interativo**
+**Vitrine de projetos com alternância web/app**
+
+#### Funcionalidades:
+- ✅ Toggle entre visualização web e mobile
+- ✅ Conectores SVG animados entre botões
+- ✅ Carousel de projetos
+- ✅ Screens mockup responsivas
+- ✅ Animações fluidas e profissionais
+
+#### Tecnologias:
+- JavaScript (gerenciamento de estado)
+- SVG (conectores dinâmicos)
+- CSS Grid e Flexbox
+- Animações CSS3
+
+---
+
+#### Tecnologias:
+- HTML5 estratégico (BEM)
+- CSS3 avançado (variáveis, animações)
+- JavaScript puro (sem dependências)
+
+---
+
+## 🎨 Habilidades de Design
+
+- **UI/UX** — Design focado em conversão e UX
+- **Responsividade** — Mobile-first, adaptação fluida
+- **Animações** — Microinterações profissionais
+- **Performance** — Otimização CSS/JS
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaojogadez&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devjoaopedro&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaopedro&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaojogadez&bg_color=1a1b27&color=6e93b5&line=ffffff&point=6e93b5&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devjoaopedro&bg_color=1a1b27&color=6e93b5&line=00CFFF&point=6e93b5&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🌐 Conecte-se comigo
+## 💡 O que estou aprendendo
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jaocodadez/">
-    <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:contato.dev.joaopedro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-007ACC?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+- 🔥 **Vue.js** — Componentes, hooks, state management
+- 🎯 **Laravel** — Framework backend de PHP
+---
+
+## 📈 Métodos e Metodologias
+
+- **BEM** — CSS modular e escalável
+- **Mobile-First** — Design responsivo desde o início
+- **Performance First** — Otimização de assets
+- **Accessibility** — Acessibilidade por padrão
+- **Clean Code** — Código legível e bem estruturado
+
+---
+
+## 🎁 Como trabalho
+
+1. **Consultoria** — Entendo seu negócio e público
+2. **Design** — Prototipo no Figma
+3. **Desenvolvimento** — Código limpo e modular
+4. **Testes** — QA em múltiplos browsers
+5. **Deploy** — Hospedagem em Vercel/Netlify
+6. **Suporte** — Atualizações e manutenção
+
+---
+
+## 📞 Vamos conectar?
+
+- 📧 **Email:** contato.dev.joaopedro@gmail.com
+- 💬 **WhatsApp:** +55 14 9300-9075
+- 🔗 **LinkedIn:** [/in/jaocodadez](https://www.linkedin.com/in/jaocodadez/)
+- 📸 **Instagram:** [@devjoaopedro](https://www.instagram.com/devjoaopedro/)
+- 👥 **Facebook:** [Devjoaopedro](https://www.facebook.com/people/Devjoaopedro/61567355956956/)
+
+---
+
+## 🎯 Meta Profissional
+
+- 🎓 Conclusão da formação BCC
+- 🚀 Desenvolvimento de SaaS próprio
+- 🌍 Expansão para clientes 
+- 💼 Posição Júnior em Empresa tech
 
 ---
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00CFFF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <strong>Desenvolvendo o futuro, um pixel por vez. ✨</strong>
 </p>
